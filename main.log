@@ -1,0 +1,4 @@
+2022-06-15 11:43:19,996 - INFO - calling replace_string
+2022-06-15 11:43:19,996 - INFO - Replacing placement with screening in example.txt
+2022-06-15 11:43:19,996 - INFO - Reading example.txt
+2022-06-15 11:43:19,996 - INFO - Writing to {file_path}
