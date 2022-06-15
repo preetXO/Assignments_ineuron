@@ -1,0 +1,21 @@
+2022-06-15 12:00:36,779 - INFO - calling run from ConcreteClass
+2022-06-15 12:00:36,779 - INFO - AbstractClass.abstract_method
+2022-06-15 12:00:36,779 - INFO - ConcreteClass.concrete_method
+2022-06-15 12:06:58,902 - INFO - calling DogCatFish
+2022-06-15 12:06:58,902 - INFO - Creating DogCatFish
+2022-06-15 12:09:16,324 - INFO - calling DogCatFish
+2022-06-15 12:10:07,983 - INFO - calling DogCatFish
+2022-06-15 12:10:07,983 - INFO - Creating DogCatFish
+2022-06-15 12:10:07,983 - INFO - Creating DogCatFish
+2022-06-15 12:11:44,071 - INFO - calling DogCatFish
+2022-06-15 12:11:44,071 - INFO - Creating DogCatFish
+2022-06-15 12:11:44,071 - INFO - Creating DogCatFish
+2022-06-15 12:12:14,040 - INFO - calling DogCatFish
+2022-06-15 12:12:14,040 - INFO - Creating DogCatFish
+2022-06-15 12:12:14,040 - INFO - Creating DogCatFish
+2022-06-15 12:12:49,942 - INFO - calling DogCatFish
+2022-06-15 12:12:49,942 - INFO - Creating DogCatFish
+2022-06-15 12:12:49,942 - INFO - Creating DogCatFish
+2022-06-15 12:14:35,358 - INFO - calling DogCatFish
+2022-06-15 12:14:35,358 - INFO - Creating DogCatFish
+2022-06-15 12:14:35,358 - INFO - Creating DogCatFish
