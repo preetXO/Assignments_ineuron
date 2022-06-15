@@ -1,5 +1,5 @@
 import logging
-logging.basicConfig(level=logging.DEBUG, filename='main.log', format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.DEBUG, filename='string_replace.log', format='%(asctime)s - %(levelname)s - %(message)s')
 
 def replace_string(file_path: str, old_string: str, new_string: str) -> None:
     """
